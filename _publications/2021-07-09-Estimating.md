@@ -2,7 +2,7 @@
 title: "Estimating Distributions of Large Graphs from Incomplete Sampled Data"
 collection: publications
 permalink: /publication/2021-07-09-Estimating
-<!-- excerpt: 'This paper is about the number 2. The number 3 is left for future work.' -->
+excerpt: 
 date: 2021-07-09
 venue: 'IFIP Networking'
 paperurl: 'https://ieeexplore.ieee.org/document/9472848'
