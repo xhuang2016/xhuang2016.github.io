@@ -8,7 +8,7 @@ redirect_from:
 ---
 [Download CV here](http://xhuang2016.github.io/files/CV-XIN HUANG.pdf)
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 Education
 ======
@@ -57,4 +57,4 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
