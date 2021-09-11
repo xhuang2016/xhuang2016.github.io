@@ -5,8 +5,8 @@ permalink: /publication/2021-07-09-Estimating
 excerpt:
 date: 2021-07-09
 venue: 'IFIP Networking'
-paperurl: 
-citation: 'Li, S., Huang, X., & Lee, C. H. (2021). Estimating Distributions of Large Graphs from Incomplete Sampled Data. In Proceedings of 2021 IFIP Networking Conference (pp. 1-9).'
+paperurl:
+citation: 'Li, S., Huang, X., & Lee, C. H. (2021, July). Estimating Distributions of Large Graphs from Incomplete Sampled Data. In Proceedings of 2021 IFIP Networking Conference (pp. 1-9).'
 
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work. -->
