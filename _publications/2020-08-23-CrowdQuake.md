@@ -2,7 +2,7 @@
 title: "CrowdQuake: A networked system of low-cost sensors for earthquake detection via deep learning"
 collection: publications
 permalink: /publication/2020-08-23-CrowdQuake
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+<!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 date: 2020-08-23
 venue: 'ACM SIGKDD'
 paperurl: 'https://dl-acm-org.portal.lib.fit.edu/doi/abs/10.1145/3394486.3403378'
