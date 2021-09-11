@@ -9,4 +9,5 @@ redirect_from:
 ---
 
 I am a Ph.D. student in Computer Science at Texas State University.
+
 My research interests include machine learning, graph mining, CUDA programming, and HPC system log analysis.
