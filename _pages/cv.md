@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download CV here](http://academicpages.github.io/files/paper3.pdf)
+[Download CV here](http://xhuang2016.github.io/files/CV-XIN HUANG.pdf)
 
 {% include base_path %}
 
