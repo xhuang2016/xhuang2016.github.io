@@ -310,8 +310,13 @@
     clearAboutLedeTypewriter();
     var full = SiteI18n.t(locale, "about.text");
     if (full === undefined || full === null) full = "";
+    var measure = document.getElementById("about-lede-measure");
     el.classList.remove("lede--typing");
     el.removeAttribute("aria-busy");
+
+    if (measure) {
+      measure.textContent = full;
+    }
 
     if (prefersReducedMotion()) {
       el.textContent = full;
