@@ -558,14 +558,15 @@ body.nav-open {
   color: var(--muted);
 }
 
+/* Inline character cursor: inline-block caret was stealing width at line ends and
+   caused the last word to reflow (flash) when wrapping. A text char shares the
+   same line-box rules as the typed text. */
 .lede.lede--typing::after {
-  content: "";
-  display: inline-block;
-  width: 2px;
-  height: 1.05em;
+  content: "\2502";
+  color: var(--accent);
+  font-weight: 400;
   margin-left: 2px;
-  vertical-align: -0.08em;
-  background: var(--accent);
+  vertical-align: -0.06em;
   animation: lede-cursor-blink 0.85s steps(1, end) infinite;
 }
 
