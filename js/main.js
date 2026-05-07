@@ -259,6 +259,21 @@
       li.appendChild(degree);
       li.appendChild(school);
       li.appendChild(period);
+      if (row.advisor && row.advisor.name && row.advisor.url) {
+        var advisorP = document.createElement("p");
+        advisorP.className = "education-list__advisor";
+        var advisorLabel = document.createElement("span");
+        advisorLabel.className = "education-list__advisor-label";
+        advisorLabel.textContent = (row.advisor.label || "Advisor:") + " ";
+        var advisorLink = document.createElement("a");
+        advisorLink.href = row.advisor.url;
+        advisorLink.textContent = row.advisor.name;
+        advisorLink.target = "_blank";
+        advisorLink.rel = "noopener noreferrer";
+        advisorP.appendChild(advisorLabel);
+        advisorP.appendChild(advisorLink);
+        li.appendChild(advisorP);
+      }
       ul.appendChild(li);
     });
     container.appendChild(ul);

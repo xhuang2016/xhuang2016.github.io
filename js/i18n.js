@@ -193,6 +193,11 @@
           degree: "Ph.D., Computer Science",
           school: "Texas State University, San Marcos, TX",
           period: "Aug. 2021 — May 2025",
+          advisor: {
+            label: "Advisor:",
+            name: "Chul-Ho Lee",
+            url: "https://sites.google.com/site/chulholeesite/",
+          },
         },
         {
           degree: "M.S., Electrical Engineering",
@@ -390,6 +395,11 @@
           degree: "博士，计算机科学",
           school: "德克萨斯州立大学，圣马科斯，德克萨斯州",
           period: "2021年8月 — 2025年5月",
+          advisor: {
+            label: "导师：",
+            name: "Chul-Ho Lee",
+            url: "https://sites.google.com/site/chulholeesite/",
+          },
         },
         {
           degree: "硕士，电气工程",
