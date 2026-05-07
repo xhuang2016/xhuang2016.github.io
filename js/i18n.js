@@ -195,7 +195,7 @@
           period: "Aug. 2021 — May 2025",
           advisor: {
             label: "Advisor:",
-            name: "Dr.Chul-Ho Lee",
+            name: "Dr. Chul-Ho Lee",
             url: "https://sites.google.com/site/chulholeesite/",
           },
         },
