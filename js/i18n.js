@@ -195,7 +195,7 @@
           period: "Aug. 2021 — May 2025",
           advisor: {
             label: "Advisor:",
-            name: "Chul-Ho Lee",
+            name: "Dr.Chul-Ho Lee",
             url: "https://sites.google.com/site/chulholeesite/",
           },
         },
@@ -397,7 +397,7 @@
           period: "2021年8月 — 2025年5月",
           advisor: {
             label: "导师：",
-            name: "Chul-Ho Lee",
+            name: "Dr. Chul-Ho Lee",
             url: "https://sites.google.com/site/chulholeesite/",
           },
         },
