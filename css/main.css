@@ -731,6 +731,17 @@ body.nav-open {
   color: var(--faint);
 }
 
+.education-list__advisor {
+  margin: 0.35rem 0 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--muted);
+}
+
+.education-list__advisor-label {
+  color: var(--muted);
+}
+
 .about-skills__label {
   margin: 0 0 clamp(1rem, 2.5vw, 1.35rem);
   font-family: var(--font-mono);
